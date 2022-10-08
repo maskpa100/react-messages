@@ -4,7 +4,7 @@ import './App.css';
 function App() {
   return (
     <div className="app-wrapper">
-        <h1>сайт создан на react</h1>
+        <h1>сайт создан на react 33</h1>
     </div>
   );
 }
