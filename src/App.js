@@ -1,14 +1,15 @@
 import logo from './logo.svg';
 import './App.css';
+import Navbar from './components/Navbar/Navbar';
+import Header from './components/Header/Header';
+import Profile from './components/Profile/Profile';
 
 function App() {
   return (
     <div className="app-wrapper">
-        <h1>сайт создан на react 33</h1>
-        			<div className="h">
-			  <img src="https://anticwar.ru/wp-content/uploads/wp_article/2021-11-23/2021-11-23_677341675205681.jpeg" />
-			  post 2
-			</div>
+      <Header />
+      <Navbar />
+      <Profile />
     </div>
   );
 }

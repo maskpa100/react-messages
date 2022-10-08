@@ -1,0 +1,9 @@
+.nav{
+  background-color:red;
+}
+.item{
+	color: white;
+}
+.active{
+	color:gold;
+}
