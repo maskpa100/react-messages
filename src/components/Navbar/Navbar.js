@@ -3,7 +3,7 @@ import s from "./Navbar.module.css";
 const Navbar = () => {
 	return <nav className={s.nav}>
 		<div className={s.item}>
-			<a>Урок 16</a>
+			<a>Урок 17 0:54</a>
 		</div>
 		<div className={`${s.item} ${s.active}`}>
 			<a>Profile</a>
